@@ -1,0 +1,21 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  --color-forest: #1A5C2A;
+  --color-amber:  #E07C24;
+  --color-ocean:  #185FA5;
+  --color-dark:   #1A1A2E;
+}
+
+body {
+  font-family: 'DM Sans', 'Inter', system-ui, sans-serif;
+  background: #F8F9FA;
+  color: var(--color-dark);
+  -webkit-font-smoothing: antialiased;
+}
+
+h1, h2, h3, h4 {
+  font-family: 'Sora', 'DM Sans', sans-serif;
+}
