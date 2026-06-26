@@ -1,4 +1,8 @@
 api/
-shared/
 scripts/
 docs/
+shared/types/
+shared/constants/
+shared/utils/
+shared/index.js
+shared/package.json
